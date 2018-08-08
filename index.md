@@ -6,17 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Summary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-I have acquired my Bachelor of Science degree in Computer Science and Engineering from International Islamic University Chittagong. I have attended a government aided training program of three months on Web Application Development – Dot Net at BITM-Chittagong conducted by Ministry of ICT, Bangladesh which was funded by Asian Development Bank (ADB).
 
-**Bold** and _Italic_ and `Code` text
+I have acquired my Bachelor of Science degree in Computer Science and Engineering
+from International Islamic University Chittagong. I have attended a government
+aided training program of three months on Web Application Development – Dot Net
+at BITM-Chittagong conducted by Ministry of ICT, Bangladesh which was funded
+by Asian Development Bank (ADB).
 
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
