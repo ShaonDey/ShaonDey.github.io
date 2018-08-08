@@ -1,6 +1,6 @@
-## Hello there
+## Welcome to my site
 
-Welcome to my personal blog
+Hello there, I'm Shaon Dey.
 
 ### Summary
 
