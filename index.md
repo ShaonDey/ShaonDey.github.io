@@ -4,22 +4,12 @@ You can use the [editor on GitHub](https://github.com/ShaonDey/ShaonDey.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Summary
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+I have acquired my Bachelor of Science degree in Computer Science and Engineering from International Islamic University Chittagong. I have attended a government aided training program of three months on Web Application Development – Dot Net at BITM-Chittagong conducted by Ministry of ICT, Bangladesh which was funded by Asian Development Bank (ADB).
 
 **Bold** and _Italic_ and `Code` text
 
